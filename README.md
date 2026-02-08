@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/sundowndev/phoneinfoga/actions">
+  <a href="https://github.com/sundowndev/phoneinfoga/actions">+525538055436
     <img src="https://github.com/sundowndev/phoneinfoga/workflows/Build/badge.svg" alt="build status" />
   </a>
   <a href="https://goreportcard.com/report/github.com/sundowndev/phoneinfoga/v2">
