@@ -1,6 +1,7 @@
----
+---sudo git clone https://github.com/alifa2try/phunter.git
 hide:
 - navigation
+- 
 ---
 
 # Welcome to the PhoneInfoga documentation website
